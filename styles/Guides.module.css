@@ -1,0 +1,21 @@
+.guides {
+  max-width: 960px;
+  margin: 40px auto;
+  letter-spacing: 1px;
+  line-height: 1.5em;
+}
+
+.error {
+  padding: 5px;
+  border: 1px solid rgb(236, 184, 195);
+  border-radius: 3px;
+  text-align: center;
+  background-color: rgb(236, 184, 195);
+}
+
+.card {
+  background: white;
+  padding: 5px;
+  box-shadow: 1px 2px 3px rgb(0, 0, 0, 0.01);
+  margin: 5px;
+}
